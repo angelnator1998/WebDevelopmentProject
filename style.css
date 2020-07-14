@@ -186,3 +186,30 @@ p.signUptxt, p.loginTxt {
     font-size: 16px;
     text-align: center;
 }
+
+#SignUpDiv{
+    margin: 50px;
+    width: 400px;
+    background-color: #75B09C;
+    border-radius: 10px;
+    
+    text-align: center;
+}
+
+#SignUpDiv h3{
+    background-color: #A0CA92;
+    padding: 3px;
+    
+}
+#SignLogIn {
+    color: beige;
+}
+
+#ProfileDiv{
+     margin: 50px;
+}
+
+#ProfileDiv th{
+     padding: 3px;
+    width: 400px;
+}
